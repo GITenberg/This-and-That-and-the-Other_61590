@@ -1,0 +1,37 @@
+_repo: This-and-That-and-the-Other_61590
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Belloc, Hilaire
+    alias: Belloc, Joseph Hilaire Pierre
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: https://en.wikipedia.org/wiki/Hilaire_Belloc
+description: ''
+gutenberg_issued: '2020-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61590'
+  lccn: '12023752'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English essays -- 20th century'
+- GITenberg
+tableOfContents: An open letter to a young diplomatist -- On pedants -- On atheism
+  -- On fame -- On rest -- On discovery -- On inns -- On rows -- The pleasant place
+  -- On omens -- The book -- The servants of the rich -- The joke -- The spy -- The
+  young people -- Ethandune -- The death of Robert the Strong -- The crooked streets
+  -- The place apart -- The Ebro Plain -- The little river -- Some letters of Shakespeare's
+  time -- On acquaintance with the great -- On lying -- The dupe -- The love of England
+  -- The storm -- The valley -- A conversation in Andorra -- Paris and the East --
+  The human charlatan -- The barbarians -- On knowing the past -- The higher criticism
+  -- The fanatic -- A leading article -- The obituary notice -- The "Merry Rome" column
+  -- Open letter to a young parasite -- On dropping anchor.
+title: This and That and the Other
+url: http://www.gutenberg.org/ebooks/61590
